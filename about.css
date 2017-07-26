@@ -1,0 +1,58 @@
+#container{
+	width: 1000px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11px;
+	color: #eee;	
+}
+#Header{
+	height: 120px;
+	background-color:black;
+	margin-left: auto;
+	margin-right: auto;
+}
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;	
+}
+#Menu{
+	height: 60px;
+	background-color:#666;
+	padding: 0;
+
+}
+#Mainbody{
+	width: 650px;
+	height: 400px;
+	background-color: blue;
+	float: right;
+}
+video{
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2px;
+	float: left;
+}
+#paragraph{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightgrey;
+	clear: both;
+	width: 0 auto
+	height: auto;
+	float: left;
+	padding-top: 2px;
+	height: 200px;
+	padding-bottom: 5px;
+}
+#Menu li:Hover{
+	background-color: lightgrey;
+}
+#Menu ul{
+	padding: 0;
+	margin: 0;
+}
