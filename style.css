@@ -1,0 +1,40 @@
+#container{
+	width: 800px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11px;	
+}
+#Header{
+	height: 150px;
+	background-color: #ccc;
+}
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;	
+}
+#Menu{
+	height: 60px;
+	background-color:#666;
+
+}
+#Sidebar{
+	width: 150px;
+	height: 400px;
+	background-color: green;
+	float: left;
+}
+#Mainbody{
+	width: 650px;
+	height: 400px;
+	background-color: blue;
+	float: right;
+}
+#Footer{
+	height: 100px;
+	margin-bottom: 21px;
+	background-color: #ccc;
+	clear: both;
+}
